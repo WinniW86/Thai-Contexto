@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: thai-contexto
-    env: static
-    buildCommand: ""
-    staticPublishPath: .
-    pullRequestPreviewsEnabled: true
