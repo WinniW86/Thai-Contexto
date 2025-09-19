@@ -1,0 +1,23 @@
+body {
+  font-family: Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+input {
+  padding: 8px;
+  font-size: 16px;
+}
+button {
+  padding: 8px 12px;
+  font-size: 16px;
+  margin-left: 5px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+li {
+  font-size: 18px;
+  margin: 5px 0;
+}

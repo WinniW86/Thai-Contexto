@@ -1,0 +1,4 @@
+flask
+gunicorn
+fasttext
+numpy
